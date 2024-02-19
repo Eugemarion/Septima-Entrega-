@@ -1,0 +1,17 @@
+{
+    "name": "mi-proyecto",
+    "version": "1.0.0",
+    "description": "Proyecto de comercio electrónico con Express y MongoDB",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "http": "0.0.1-security",
+      "socket.io": "^4.1.3",
+      "mongoose": "^6.1.2",
+      "express-handlebars": "^5.3.3"
+    }
+  }
+  
